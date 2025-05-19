@@ -1,0 +1,7 @@
+{
+    "python.defaultInterpreterPath": "C:\\Users\\Msi\\AppData\\Local\\Programs\\Python\\Python310\\python.exe",
+    "python.analysis.extraPaths": [
+        "C:\\Users\\Msi\\AppData\\Local\\Programs\\Python\\Python310\\Lib\\site-packages"
+    ],
+    "python.terminal.activateEnvironment": false
+} 
